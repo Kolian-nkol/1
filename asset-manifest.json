@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/OSM-Location/static/css/main.dcf4104f.chunk.css",
+    "main.css": "/OSM-Location/static/css/main.8849678e.chunk.css",
     "main.js": "/OSM-Location/static/js/main.bfc747c6.chunk.js",
     "main.js.map": "/OSM-Location/static/js/main.bfc747c6.chunk.js.map",
     "runtime-main.js": "/OSM-Location/static/js/runtime-main.c2f7baad.js",
@@ -10,14 +10,14 @@
     "static/js/2.d2c52385.chunk.js.map": "/OSM-Location/static/js/2.d2c52385.chunk.js.map",
     "index.html": "/OSM-Location/index.html",
     "static/css/2.859f3a0c.chunk.css.map": "/OSM-Location/static/css/2.859f3a0c.chunk.css.map",
-    "static/css/main.dcf4104f.chunk.css.map": "/OSM-Location/static/css/main.dcf4104f.chunk.css.map",
+    "static/css/main.8849678e.chunk.css.map": "/OSM-Location/static/css/main.8849678e.chunk.css.map",
     "static/js/2.d2c52385.chunk.js.LICENSE.txt": "/OSM-Location/static/js/2.d2c52385.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c2f7baad.js",
     "static/css/2.859f3a0c.chunk.css",
     "static/js/2.d2c52385.chunk.js",
-    "static/css/main.dcf4104f.chunk.css",
+    "static/css/main.8849678e.chunk.css",
     "static/js/main.bfc747c6.chunk.js"
   ]
 }
